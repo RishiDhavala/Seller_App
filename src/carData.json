@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Toyota RAV4",
+    "year": 2021,
+    "image": "./src/assets/2023-Toyota-RAV4.jpg",
+    "chars1": [
+      {
+        "value": "4 People",
+        "icon": "./src/assets/icons8-people-24.png"
+      },
+
+      {
+        "value": "6.1km/1litre",
+        "icon": "./src/assets/icons8-speed-24.png"
+      }
+    ],
+    "chars2": [
+      {
+        "value": "Hybrid",
+        "icon": "./src/assets/icons8-fuel-24.png"
+      },
+      {
+        "value": "Automatic",
+        "icon": "./src/assets/icons8-steering-wheel-24.png"
+      }
+    ],
+    "price": "$440/month"
+  },
+  {
+    "name": "BMW 3 Series",
+    "year": 2019,
+    "image": "./src/assets/Bmw-3-series.jpg",
+    "chars1": [
+      {
+        "value": "4 People",
+        "icon": "./src/assets/icons8-people-24.png"
+      },
+
+      {
+        "value": "8.2km/1litre",
+        "icon": "./src/assets/icons8-speed-24.png"
+      }
+    ],
+    "chars2": [
+      {
+        "value": "Gasoline",
+        "icon": "./src/assets/icons8-fuel-24.png"
+      },
+      {
+        "value": "Automatic",
+        "icon": "./src/assets/icons8-steering-wheel-24.png"
+      }
+    ],
+    "price": "$350/month"
+  },
+  {
+    "name": "Volkswagen T-Cross",
+    "year": 2020,
+    "image": "./src/assets/Volkswagen-T-Cross.jpg",
+    "chars1": [
+      {
+        "value": "4 People",
+        "icon": "./src/assets/icons8-people-24.png"
+      },
+
+      {
+        "value": "5.3km/1litre",
+        "icon": "./src/assets/icons8-speed-24.png"
+      }
+    ],
+    "chars2": [
+      {
+        "value": "Gasoline",
+        "icon": "./src/assets/icons8-fuel-24.png"
+      },
+      {
+        "value": "Automatic",
+        "icon": "./src/assets/icons8-steering-wheel-24.png"
+      }
+    ],
+    "price": "$400/month"
+  },
+  {
+    "name": "Cadillac Escalade",
+    "year": 2020,
+    "image": "./src/assets/Cadillac-Escalade.jpg",
+    "chars1": [
+      {
+        "value": "4 People",
+        "icon": "./src/assets/icons8-people-24.png"
+      },
+
+      {
+        "value": "7.7km/1litre",
+        "icon": "./src/assets/icons8-speed-24.png"
+      }
+    ],
+    "chars2": [
+      {
+        "value": "Gasoline",
+        "icon": "./src/assets/icons8-fuel-24.png"
+      },
+      {
+        "value": "Automatic",
+        "icon": "./src/assets/icons8-steering-wheel-24.png"
+      }
+    ],
+    "price": "$620/month"
+  },
+  {
+    "name": "BMW 4 Series GTI",
+    "year": 2021,
+    "image": "./src/assets/BMW-4-Series-GTI.jpg",
+    "chars1": [
+      {
+        "value": "4 People",
+        "icon": "./src/assets/icons8-people-24.png"
+      },
+
+      {
+        "value": "7.6km/1litre",
+        "icon": "./src/assets/icons8-speed-24.png"
+      }
+    ],
+    "chars2": [
+      {
+        "value": "Gasoline",
+        "icon": "./src/assets/icons8-fuel-24.png"
+      },
+      {
+        "value": "Automatic",
+        "icon": "./src/assets/icons8-steering-wheel-24.png"
+      }
+    ],
+    "price": "$530/month"
+  },
+  {
+    "name": "BMW 4 Series",
+    "year": 2019,
+    "image": "./src/assets/bmw-4-series.jpg",
+    "chars1": [
+      {
+        "value": "4 People",
+        "icon": "./src/assets/icons8-people-24.png"
+      },
+
+      {
+        "value": "7.2km/1litre",
+        "icon": "./src/assets/icons8-speed-24.png"
+      }
+    ],
+    "chars2": [
+      {
+        "value": "Gasoline",
+        "icon": "./src/assets/icons8-fuel-24.png"
+      },
+      {
+        "value": "Automatic",
+        "icon": "./src/assets/icons8-steering-wheel-24.png"
+      }
+    ],
+    "price": "$490/month"
+  }
+]
